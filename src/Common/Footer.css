@@ -1,0 +1,17 @@
+.cajafuera-footer, .cajadentro-footer
+{
+    background-color: #121212;
+    width: 100%;
+}
+
+.cajafuera-footer
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.info-footer
+{
+    color: white;
+    text-align: center;
+}

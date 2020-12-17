@@ -1,0 +1,39 @@
+.cajadentro-navbar
+{
+    background-color: #0B0C0D;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cajafuera-navbar
+{
+    background-color: #0B0C0D;
+}
+
+.titulo
+{
+    color: #ffffff;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+li a
+{
+    color: #BFBFBF;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+
+li a:hover
+{
+    color: #ffffff;
+}

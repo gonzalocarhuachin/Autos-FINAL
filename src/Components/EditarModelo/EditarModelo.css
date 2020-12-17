@@ -1,0 +1,20 @@
+#formulario-agregar{
+    display: none;
+}
+.tabla-editar-modelos .fa-icon{
+    cursor: pointer;
+}
+.tabla-editar-modelos .fa-icon:hover{
+    color:#333333;
+}
+
+.cajadentro-tablamodelos
+{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.titulo-editarmodelos
+{
+    margin-bottom: 25px;
+}

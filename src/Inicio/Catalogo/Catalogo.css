@@ -1,0 +1,38 @@
+.card
+{
+    width: 18 rem;
+}
+
+.card-text
+{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}
+
+.titulo-marcas 
+{
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.titulo-modelos
+{
+    margin-top: 28px;
+    margin-bottom: 18px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #333333;
+}
+
+.lista-marcas
+{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+img
+{
+    width: 120px;
+    height: 250px;
+}
